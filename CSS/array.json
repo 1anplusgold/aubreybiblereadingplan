@@ -1,0 +1,316 @@
+{
+    "day1":{
+    "January":"9",
+    "Week":"1",
+    "Book":{
+    "Genesis 1":"1",
+    "Genesis 2":"2",
+    "Genesis 3":"3",
+    "Psalm 1": "1",
+    "Matthew 1": "1"
+    }},
+    "day2":{
+    "January":"10",
+    "Week":"1",
+    "Book":{
+    "Genesis 4":"4",
+    "Genesis 5":"5",
+    "Genesis 6":"6",
+    "Genesis 7":"7",
+    "Genesis 8":"8",
+    "Psalm 2": "2",
+    "Matthew 1": "1",
+    "Matthew 2": "2"
+    }},
+    "day3": {
+    "January": "11",
+    "Week":"1",
+    "Book":{
+    "Genesis 9":"9",
+    "Genesis 10":"10",
+    "Genesis 11":"11",
+    "Genesis 12":"12",
+    "Psalm 3": "3",
+    "Matthew 4": "4"
+    }},
+    
+    "day4": {
+    "January": "12",
+    "Week":"1",
+    "Book":{
+    "Genesis 13":"13",
+    "Genesis 14":"14",
+    "Genesis 15":"15",
+    "Genesis 16":"16",
+    "Genesis 17":"17",
+    "Psalm 4": "4",
+    "Matthew 5": "5"
+    }},
+    "day5": {
+    "January": "13",
+    "Week":"1",
+    "Book":{
+    "Genesis 17":"17",
+    "Genesis 18":"18",
+    "Genesis 19":"19",
+    "Genesis 20":"20",
+    "Psalm 5": "5"
+    }},
+    "day6": {
+    "January": "16",
+    "Week":"2",
+    "Book":{
+    "Genesis 21":"21",
+    "Genesis 22":"22",
+    "Genesis 23":"23",
+    "Psalm 6": "6",
+    "Matthew 6": "6"
+    }},
+    "day7": {
+    "January": "17",
+    "Week":"2",
+    "Book":{
+    "Genesis 24":"24",
+    "Genesis 25":"25",
+    "Genesis 26":"26",
+    "Psalm 7": "7",
+    "Matthew 7": "7",
+    "Matthew 8": "8"
+    }},
+    "day8": {
+    "January": "18",
+    "Week":"2",
+    "Book":{
+    "Genesis 26":"26",
+    "Genesis 27":"27",
+    "Genesis 28":"28",
+    "Psalm 8": "8"
+    }},
+    "day9": {
+    "January": "19",
+    "Week":"2",
+    "Book":{
+    "Genesis 29":"29",
+    "Genesis 30":"30",
+    "Psalm 9": "9",
+    "Matthew 9": "9"
+    }},
+    "day10": {
+    "January": "20",
+    "Week":"2",
+    "Book":{
+    "Genesis 31":"31",
+    "Genesis 32":"32",
+    "Genesis 33":"33",
+    "Psalm 10": "10",
+    "Matthew 10": "10"
+    }},
+    "day11": {
+    "January": "23",
+    "Week":"3",
+    "Book":{
+    "Genesis 34":"34",
+    "Genesis 35":"35",
+    "Genesis 36":"36",
+    "Psalm 11": "11",
+    "Matthew 11": "11"
+    }},
+    "day12": {
+    "January": "24",
+    "Week":"3",
+    "Book":{
+    "Genesis 37":"37",
+    "Genesis 38":"38",
+    "Genesis 39":"39",
+    "Genesis 40":"40",
+    "Psalm 12": "12",
+    "Matthew 12": "12"
+    }},
+    "day13": {
+    "January": "25",
+    "Week":"3",
+    "Book":{
+    "Genesis 41":"41",
+    "Genesis 42":"42",
+    "Psalm 13": "13"
+    }},
+    "day14": {
+    "January": "26",
+    "Week":"3",
+    "Book":{
+    "Genesis 43":"43",
+    "Genesis 44":"44",
+    "Genesis 45":"45",
+    "Psalm 14": "14",
+    "Matthew 13": "13"
+    }},    
+    "day15": {
+    "January": "27",
+    "Week":"3",
+    "Book":{
+    "Genesis 46":"46",
+    "Genesis 47":"47",
+    "Genesis 48":"48",
+    "Psalm 15": "15",
+    "Matthew 14": "14"
+    }}, 
+    "day16": {
+    "January": "30",
+    "Week":"4",
+    "Book":{
+    "Genesis 49":"49",
+    "Genesis 50":"50",
+    "Psalm 16": "16",
+    "Matthew 15": "15"
+    }}, 
+    "day17": {
+    "January": "31",
+    "Week":"4",
+    "Book":{
+    "Exodus 1":"1",
+    "Exodus 2":"2",
+    "Exodus 3":"3",
+    "Exodus 4":"4",
+    "Psalm 17": "17",
+    "Matthew 16": "16"
+    }}, 
+    "day18": {
+    "February": "1",
+    "Week":"4",
+    "Book":{
+    "Exodus 5":"5",
+    "Exodus 6":"6",
+    "Exodus 7":"7",
+    "Exodus 8":"8",
+    "Psalm 18": "18",
+    "Matthew 17": "17"
+    }}, 
+    "day19": {
+    "February": "2",
+    "Week":"4",
+    "Book":{
+    "Exodus 9":"9",
+    "Exodus 10":"10",
+    "Exodus 11":"11",
+    "Psalm 19": "19",
+    "Matthew 18": "18"
+    }},
+    "day20": {
+    "February": "3",
+    "Week":"4",
+    "Book":{
+    "Exodus 12":"12",
+    "Exodus 13":"13",
+    "Exodus 14":"14",
+    "Psalm 20": "20"
+    }},
+    "day21": {
+    "February":"6",
+    "Week":"5",
+    "Book":{
+    "Exodus 15":"15",
+    "Exodus 16":"16",
+    "Exodus 17":"17",
+    "Psalm 21": "21",
+    "Matthew 19": "19"
+    }}, 
+    "day22": {
+    "February":"7",
+    "Week":"5",
+    "Book":{
+    "Exodus 18":"18",
+    "Exodus 19":"19",
+    "Exodus 20":"20",
+    "Psalm 22": "22",
+    "Matthew 20": "20"
+    }}, 
+    "day23": {
+    "February":"8",
+    "Week":"5",
+    "Book":{ 
+    "Exodus 21":"21",
+    "Exodus 22":"22",
+    "Exodus 23":"23",
+    "Psalm 23": "23",
+    "Matthew 21": "21"
+    }}, 
+    "day24": {
+    "February":"9",
+    "Week":"5",
+    "Book":{
+    "Exodus 24":"24",
+    "Exodus 25":"25",
+    "Exodus 26":"26",
+    "Psalm 24": "24",
+    "Matthew 22": "22"
+    }}, 
+    "day25": {
+    "February":"10",
+    "Week":"5",
+    "Book":{
+    "Exodus 27":"27",
+    "Exodus 28":"28",
+    "Exodus 29":"29",
+    "Psalm 25": "25",
+    "Matthew 24": "24"
+    }}, 
+    "day26": {
+    "February":"13",
+    "Week":"6",
+    "Book":{
+    "Exodus 30":"30",
+    "Exodus 31":"31",
+    "Psalm 26": "26"
+    }}, 
+    "day27": {
+    "February":"14",
+    "Week":"6",
+    "Book":{
+    "Exodus 32":"32",
+    "Exodus 33":"33",
+    "Exodus 34":"34",
+    "Psalm 27": "27",
+    "Matthew 24": "24"    
+    }}, 
+    "day28": {
+    "February":"15",
+    "Week":"6",
+    "Book":{
+    "Exodus 35":"35",
+    "Exodus 36":"36",
+    "Exodus 37":"37",
+    "Psalm 28": "28",
+    "Matthew 25": "25" 
+    }}, 
+    "day29": {
+    "February":"16",
+    "Week":"6",
+    "Book":{
+    "Exodus 38":"38",
+    "Exodus 39":"39",
+    "Exodus 40":"40",
+    "Psalm 29": "29"
+    }}, 
+    "day30": {
+    "February":"17",
+    "Week":"6",
+    "Book":{
+    "Leviticus 1":"1",
+    "Leviticus 2":"2",
+    "Leviticus 3":"3",
+    "Leviticus 4":"4",
+    "Psalm 30": "30",
+    "Matthew 26": "26"        
+    }}
+}  
+
+ 
+
+
+
+
+
+
+
+
+
